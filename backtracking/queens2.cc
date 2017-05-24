@@ -13,7 +13,7 @@ void write(const vector<int>& v){
 		}
 		cout << endl;
 	}
-	cout << "----------" << endl;
+	cout << endl;
 
 }
 

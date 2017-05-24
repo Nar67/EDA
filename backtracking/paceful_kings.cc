@@ -14,7 +14,7 @@ void write(const vector<int> v){
 		}
 		cout << endl;
 	}
-	cout << "----------" << endl;
+	cout << "----------" << endl;	
 }
 
 void change(matrix& m, int i, int j, bool chang){
